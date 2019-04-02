@@ -6,6 +6,9 @@ var click_increment = 1; //how many clicks per click
 function updateTotalClicks() {
     //updates the number of clicks
     var e = document.getElementById('total-clicks');
+    // select the element with the class of total clicks
+    // hint: document.getElementById to capture element with a specific id
+    // update the html content of that element to watch the current clicks variables
     e.innerHTML = clicks;
 }
 
@@ -15,7 +18,7 @@ document.querySelector('.add-click').onclick = function() {
     updateTotalClicks(); //updates the text
     if (clicks > 5) {
         TODO;
-        // if clicks === 50 add animation
+        // if clicks === 50 add animationx``
     }
 };
 

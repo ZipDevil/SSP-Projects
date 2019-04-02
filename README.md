@@ -7,4 +7,3 @@ How JavaScript can listen for user interaction events, like clicks, and update t
 How Javascritp variables can be used to update the page
 
 Clicker game derived from https://codepen.io/684386/pen/VaYqKY
-Stopwatch derived from https://codepen.io/_Billy_Brown/pen/dbJeh
