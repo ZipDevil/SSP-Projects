@@ -9,3 +9,21 @@ Learning Goals:
 - Where we place our <link rel="stylesheet" type="text/css" href=""> tag in our index.html file
 
 Clicker game derived from https://codepen.io/684386/pen/VaYqKY
+
+Instructions:
+
+Downloading the source code from Github:
+
+- click the fork button in the upper right hand corner. This will create a copy of this current repository (repo) on your personal github profile
+- Navigate to that fork
+- Once on the page for your fork - click the green button that says: Clone or Download - Click download ZIP
+- open the zip file in a location you will remember on your laptop
+
+Working on the code on your laptop:
+
+Two options:
+1 - download the Sublime Text code editor
+
+2 - 
+
+
