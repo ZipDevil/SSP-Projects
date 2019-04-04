@@ -18,7 +18,7 @@ Instructions for working on the code on your machine offline:
 2. Downloading the source code from Github:
 
 - Sign into your github account
-- click on this link to find the repo
+- click on this link to find the repo : https://github.com/peterianmuller/SSP-Projects
 - Click the fork button in the upper right hand corner. This will create a copy of this current repository (repo) on your personal github profile
 - Navigate to that fork
 - Once on the page for your fork - click the green button that says: Clone or Download - Click download ZIP
