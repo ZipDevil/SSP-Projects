@@ -22,8 +22,13 @@ Downloading the source code from Github:
 Working on the code on your laptop:
 
 Two options:
-1 - download the Sublime Text code editor
 
-2 - 
+1 - Download the Sublime Text code editor:
+https://www.sublimetext.com/blog/articles/sublime-text-3-point-0
+
+2 - Create a new file on repl.it with a css file, html file, and javascript file. I'd reccomend creating an account on repl.it first, but it's not necessary.
+https://repl.it/languages/html 
+
+
 
 
